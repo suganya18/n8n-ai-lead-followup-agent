@@ -49,7 +49,7 @@ The model acts as a friendly study-abroad counsellor and writes a reply of max 1
 
 ## 🎥 Demo video
 
-▶️ [Watch the 90-second demo](ADD-YOUR-VIDEO-LINK-HERE)
+▶️ [Watch the 90-second demo]https://youtu.be/xEX9X3DmN1s
 
 ## 🚀 How to use this workflow
 
